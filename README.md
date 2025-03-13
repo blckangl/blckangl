@@ -55,7 +55,7 @@ Check out my **daily.dev feed** for the latest tech news and updates directly on
 - 📧 Email: **dhiaa.kahri@gmail.com**
 - 🌐 Website: **https://dia.tn**
 
-- 📱 LinkedIn: [Your LinkedIn](https://linkedin.com/in/dhia-kahri-662b0a146)
+- 📱 LinkedIn: [dhia-kahri-662b0a146](https://linkedin.com/in/dhia-kahri-662b0a146)
 
 
 ---
