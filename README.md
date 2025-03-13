@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://app.daily.dev/dhiakahri"><img src="https://api.daily.dev/devcards/v2/frrWzDTsGVbRfGLuMMAXM.png?type=wide&r=09v" width="652" alt="dhia kahri's Dev Card"/></a>
 <!--
 **blckangl/blckangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
